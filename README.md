@@ -12,6 +12,12 @@ Currently pursuing my M.Sc. in statistics from IIT-Kanpur.<br>Willing to percipa
 ![](https://nirzak-streak-stats.vercel.app/?user=arcticOS2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcticOS2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arcticOS2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=arcticOS2&icon=0&color=0)](https://visitcount.itsvg.in)
 
